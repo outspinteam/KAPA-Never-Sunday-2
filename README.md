@@ -10,7 +10,7 @@ When I say "GTAV Root Folder" this means inside the folder where GTAV.exe is loc
 3. Choose DX11 then options "select none" & "select all" and finish installing reshade.
 (all options should be Ticked)
 4. Copy the "NeverSunday2.0" preset into the GTAV Root folder.
-5. When inside GTAV/FIVEM use the [ HOME ] Key to toggle the Reshade interface.
+5. When running GTAV/FIVEM use the [ HOME ] Key to toggle the Reshade interface.
 6. You can select " Never Sundey 2.0 " from the drop down list.
 
 

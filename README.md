@@ -1,6 +1,7 @@
 # KAPA-Never-Sunday-2
 Author:   Kapachino Jojo
-title:    Reshade.me Shader Preset "Never Sunday 2.0" for FiveM / GTAV
+
+Title:    Reshade.me Shader Preset "Never Sunday 2.0" for FiveM / GTAV
           (As used on OUTSPIN JDM RP servers)
 
 INSTALL:
